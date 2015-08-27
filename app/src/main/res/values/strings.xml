@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TunagappeProto</string>
+    <string name="action_settings">Settings</string>
+    //実際にはこのURLをサーバーから動的に取得する
+    <string name="sample_hangout_url">https://plus.google.com/hangouts/_/griifzkbqup7cml3synn2cxkjaa</string>
+    <string name="launch_hangout">ハングアウトを起動</string>
+</resources>
